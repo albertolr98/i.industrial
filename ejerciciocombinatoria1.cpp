@@ -5,7 +5,7 @@
 int main() {
 	//Este programa busca entre los numeros de la lista y sin repetir dos veces el mismo número las combinaciones que satisfacen #*##=#*##=#*##
 	//solo funciona para numeros de una cifra
-	//la solución para los numeros del 1 al 9 es 3*54=6*27=9*18
+	//la solución para los numeros del 1-9 es 3*54=6*27=9*18
 	int numeros[] = { 1,2,3,4,5,6,7,8,9};
 	int a,b,c,d,e,f,g,h,i;
 	int flag = 0;
